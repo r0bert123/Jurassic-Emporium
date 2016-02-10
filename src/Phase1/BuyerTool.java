@@ -100,7 +100,7 @@ public class BuyerTool {
         screen.format("\u000C");
         Menu();
     }
-          
+        //My attempt at using your function  
     private List<Grid_Point> LoadMap() {
 
         //Initializes a StreamReader object that reads in the map
